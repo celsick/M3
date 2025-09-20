@@ -51,3 +51,4 @@ def draw_plot():
     # Salva o gráfico e retorna os dados para teste (NÃO MODIFICAR)
     plt.savefig('sea_level_plot.png')
     return plt.gca()
+    # roda main
